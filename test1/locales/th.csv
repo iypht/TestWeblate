@@ -1,5 +1,5 @@
 location,source,target,ID,fuzzy,context,translator_comments,developer_comments
-,source_1a edit,เป้าหมาย_1a,id_1a,,context_1a,,
+,source_1a edit,เป้าหมาย_1a,id_1a,true,context_1a,,
 ,source_2a,เป้าหมาย_2a,id_2a,,context_2a,,
 ,source_3a,เป้าหมาย_3a,id_3a,,context_3a,,
 ,source_4a,เป้าหมาย_4a,id_4a,,context_4a,,
